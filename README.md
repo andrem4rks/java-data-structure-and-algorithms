@@ -17,4 +17,4 @@ Repositório para **implementar em Java** funcionalidades de estruturas de dados
 
 ## Linked-lists
 1. [first linked list implementation](https://github.com/andrem4rks/java-data-structure-and-algorithms/tree/main/linkedList)
-2. [generic linked list implementation](https://github.com/andrem4rks/java-data-structure-and-algorithms/tree/main/linkedList](https://github.com/andrem4rks/java-data-structure-and-algorithms/tree/main/genericLinkedList)
+2. [generic linked list implementation](https://github.com/andrem4rks/java-data-structure-and-algorithms/tree/main/genericLinkedList)
