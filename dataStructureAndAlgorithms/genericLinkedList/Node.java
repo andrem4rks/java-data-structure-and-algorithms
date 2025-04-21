@@ -1,4 +1,4 @@
-package genericLinkedList;
+package dataStructureAndAlgorithms.genericLinkedList;
 
 import java.util.Objects;
 

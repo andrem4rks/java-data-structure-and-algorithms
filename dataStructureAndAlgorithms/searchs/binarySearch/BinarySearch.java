@@ -1,7 +1,4 @@
-package binarySearch;
-
-import java.util.List;
-import java.util.Objects;
+package dataStructureAndAlgorithms.searchs.binarySearch;
 
 public class BinarySearch {
     public static boolean find(int[] vetor, int value) {

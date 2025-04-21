@@ -1,6 +1,5 @@
-package binarySearch;
+package dataStructureAndAlgorithms.searchs.binarySearch;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class BinarySearchTest {
